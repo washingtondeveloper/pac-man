@@ -1,4 +1,4 @@
-#Pac-Man
+# Pac-Man
 ## Canvas
 
 ![alt text](./img/pac-man.png)
